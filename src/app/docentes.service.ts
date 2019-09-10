@@ -4,7 +4,7 @@ import {Injectable} from '@angular/core';
 export class DocentesService{
     getDocentes(): string[]{
         return[
-            //ingeneria de sistemas
+            //ingenieria de sistemas
             'Blanco Garrido Fabian',
             'Torres Ceron Wilfred',
             'Alonso Moncada Mauricio Antonio',
@@ -20,7 +20,7 @@ export class DocentesService{
             'Reyes Roncancio Fredy',
             'Mellizo Angulo Oscar Guillermo',
 
-            //ingeneria de industrial
+            //ingenieria de industrial
             'Cubaque Mendoza Ramon Maria',
             'Meza Torres Ricardo Efren',
             'Guarin Salinas Andres Giovanni',
@@ -91,8 +91,35 @@ export class DocentesService{
             'Arce Narvaez Gloria Cristina',
             'Perez Palomino Fernando',
             'Goez Theran Cristin Alberto',
-            'Rivera Cardenas Guiovanna'
+            'Rivera Cardenas Guiovanna',
 
+            //ingenieria ambiental
+            'Ruiz Martin Lida Esperanza',
+            'Aragon Moreno Juan Antonio',
+            'Rivera Diaz Ingrid Alexandra',
+            'Vallejo Moreno Gilberto',
+            'Cordoba Mena Fausto Emilio', 
+            'Aragon Moreno Juan Antonio',
+            'Garces Polo Siby Ines',
+            'Altamar Consuegra Astrid Del Socorro',
+            'Gonzalez Angarita Gina Paola',
+            'Martinez Perez Lucy Paola',
+            'Ortiz Villota Maria Teresita',
+            'Delgado Niño Pilar',
+            'Sanchez Puin Gabriel Arturo',
+            'Grattz Cardozo Carlos Arturo',
+            'Cubillo Mendoza German Alonso',
+            'Castro Fernandez Mario Fernando',
+            'Ospina Mora Diana Carolina',
+            'Bonilla Luque Pablo Emilio',
+            'Torres Quintero Jesus Ernesto',
+            'Avellaneda Torres Lizeth Manuela',
+            'Vega Zafrane Ricardo',
+            'Agudelo Valencia Raafael Nikolay',
+            'Molina Herrera Gloria Amparo',
+            'Rodriguez Arevalo Ignacio Alberto',
+            'Ortiz Medina Oscar Leonardo',
+            'Ruiz Martinez Lida Esperanza'
         ];
     }
 }
