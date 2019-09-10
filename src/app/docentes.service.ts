@@ -119,7 +119,30 @@ export class DocentesService{
             'Molina Herrera Gloria Amparo',
             'Rodriguez Arevalo Ignacio Alberto',
             'Ortiz Medina Oscar Leonardo',
-            'Ruiz Martinez Lida Esperanza'
+            'Ruiz Martinez Lida Esperanza',
+
+            //ingenieria Mecanica
+            'Casallas Salinas Quillyam',
+            'Jirado Tajan Nidia Maria',
+            'Arias Henao Camilo Andres',
+            'Zambrano Payares Jorge Enrique',
+            'Rojas Molano Hector Fernando',
+            'Vargas Diaz Salvador',
+            'Rivera Sanchez Gustavo Armando',
+            'Aguirre Gomez FRedy Alexander',
+            'Rios Linares Ricardo augusto',
+            'Marquez Lasso Ismael',
+            'Sierra Cetina Mauricio Alejandro',
+            'Cifuentes Correa Yoiner',
+            'Orozco Florez Martha Liliana',
+            'Vargas Tamayo Luis Fernando',
+            'Eslava Sarmiento Andres Felipe',
+            'Vivas Gonzalez Edilberto Carlos',
+            'Bohorquez Avila Carlos Arturo',
+            'Mago Ramos Maria Gabriela',
+            'Camargo Vargas Gabriel de jesus',
+            'Peña Giraldo Mauricio Vladimir',
+            'Torres Medina Nelson'
         ];
     }
 }
